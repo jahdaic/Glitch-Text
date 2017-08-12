@@ -1,0 +1,31 @@
+{
+  "name": "glitch-text",
+  "version": "0.0.1",
+  "description": "Javascript plugin to create various glitching text effects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahdaic/Glitch-Text.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "text",
+    "plugin",
+    "effect"
+  ],
+  "author": "Jahdai Cintron",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jahdaic/Glitch-Text/issues"
+  },
+  "homepage": "https://github.com/jahdaic/Glitch-Text#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsbeautifier": "^0.2.13",
+    "grunt-jsdoc": "^2.1.0"
+  }
+}
