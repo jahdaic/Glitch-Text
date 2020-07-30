@@ -3,7 +3,10 @@ Javascript plugin to create various glitching text effects
 
 __NOTE:__ This is basically a proof-of-concept currently and needs some refinement. It works, but currently has a couple of drawbacks and does no yet implement all glitch types that are planned.
 
-[https://paypal.me/jahdaic](https://jahdaic.github.io/Glitch-Text)
+[View Example](https://jahdaic.github.io/Glitch-Text/test/test.html)
+
+
+[Donate](https://jahdaic.github.io/Glitch-Text)
 
 # Documentation & Usage Examples
 
